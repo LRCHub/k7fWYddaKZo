@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "幸せな約束。",
+  "base_artist": "りりあ。",
+  "createdAt": "2025-12-02T09:16:30.481594Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幸せな約束。",
+      "artist": "りりあ。",
+      "has_synced": true,
+      "path": "select/01_幸せな約束。_りりあ。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幸せな約束。",
+      "artist": "Riria.",
+      "has_synced": false,
+      "path": "select/02_幸せな約束。_Riria..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸せな約束。",
+      "artist": "りりあ。",
+      "has_synced": false,
+      "path": "select/pl_01_幸せな約束。_りりあ。.txt"
+    }
+  ]
+}
